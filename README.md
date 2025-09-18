@@ -1,9 +1,9 @@
 📚 Gestión de Estudiantes - Android App
 
-Una aplicación Android moderna desarrollada en Kotlin con Jetpack Compose para la gestión integral de estudiantes, conectada a una API RESTful.
+Una aplicación Android  desarrollada en Kotlin con Jetpack Compose para la gestión integral de estudiantes, conectada a una API RESTful.
 🚀 Características
 
-    Interfaz moderna: Diseñada completamente con Jetpack Compose y Material Design 3
+    Interfaz: Diseñada completamente con Jetpack Compose y Material Design 3
 
     Operaciones CRUD completas: Crear, leer, actualizar y eliminar estudiantes
 
